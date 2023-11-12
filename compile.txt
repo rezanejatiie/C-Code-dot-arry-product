@@ -1,0 +1,7 @@
+
+
+g++ -c -I C:\Users\rezan\Desktop\C_Code test_2.cpp 
+
+g++ -c sw_array_dot_product_serial.cpp
+
+g++ -o out test_2.o sw_array_dot_product_serial.o
